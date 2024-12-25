@@ -1,4 +1,6 @@
-Project includes:
+#Star Collection
+
+mini game project that includes:
 - falling stars and aesteroids 
 - collect stars to gain a point and avoid aesteroids which reduce your score
 - level up after 10 points
