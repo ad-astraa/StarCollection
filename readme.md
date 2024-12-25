@@ -1,4 +1,4 @@
-#Star Collection
+**Star Collection**
 
 mini game project that includes:
 - falling stars and aesteroids 
